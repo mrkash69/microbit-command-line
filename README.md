@@ -1,5 +1,8 @@
 
 > Open this page at [https://mrkash69.github.io/microbit-command-line/](https://mrkash69.github.io/microbit-command-line/)
+## Microbit Command Line
+
+Make your Microbit do crap using a CDC command line interface.
 
 ## Use as Extension
 
