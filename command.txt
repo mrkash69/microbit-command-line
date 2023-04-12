@@ -1,0 +1,4 @@
+ledtest 0/1: Makes all LEDs on microbit turn on based upon numerical parameter (0 = off, 1 = on).
+deviceinfo: Displays Microbit's device name and serial number to command line.
+function 0/1: Executes code in function code block based upon numerical parameter (0 = custom0, 1 = custom1).
+reset: Resets Microbit.
